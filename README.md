@@ -54,17 +54,47 @@ My operational philosophy blends deep technical acumen with a security-first min
 
 ## 🧠 Flagship Initiatives
 
-### [🕷️ BlackPoison Steam](https://github.com/7-c/BlackPoison_Steam)  
-**Automated vulnerability scanner** with exploit chaining, environment evasion, and custom payload injection capabilities.  
-*Technologies: Python, Go, Docker*
+### [🧬 BlackPoison ARAT](https://github.com/7-c/BlackPoison_ARAT) 
 
-### [🧬 BlackPoison ARAT](https://github.com/7-c/BlackPoison_ARAT)  
-**Advanced persistent threat research toolset** with full-spectrum malware analysis and TTP mapping.  
-*Focus: APT behavior modeling, indicator extraction*
+**BlackPoison Advanced Rremote Adminstration Tool**
+**Silent Dominion. Absolute Control.**
+
+*BlackPoison ARAT is a stealthy, high-performance Advanced Remote Administration Tool (ARAT), forged for long-term system control and unparalleled operational flexibility. Designed to operate invisibly yet decisively, it empowers its wielder with total oversight across compromised systems.*
+
+Key features include:
+
+**- Fully encrypted command-and-control communication for maximum stealth and security**
+
+**- Hidden code execution, allowing for seamless, invisible task deployment**
+
+**- Live remote monitoring through desktop and webcam streaming**
+
+**- Robust persistence mechanisms to ensure continuous access over time**
+
+**- A modular plugin system for customizable functionality and scalable capabilities**
+
+*Built for endurance, engineered for silence, and perfected for dominance—BlackPoison ARAT is not merely a tool; it is your silent blade in the shadows of the digital battlefield.*
+
+### [🕷️ BlackPoison Steam](https://github.com/7-c/BlackPoison_Steam)   
+
+**BlackPoison Steam**
+**Total Deployment. Zero Interruption.**
+
+*BlackPoison Steam is a formidable tool within the BlackPoison arsenal, engineered to inject and deploy complete games—including all DLCs and full multiplayer functionality—directly onto a system with unmatched efficiency. It bypasses conventional installation procedures, eliminating delays, prompts, or dependency checks, delivering a ready-to-play experience in a single, seamless execution.*
+
+*With a focus on automation, precision, and stealth, BlackPoison Steam ensures that every game is fully operational upon launch—no setup required. From sprawling AAA titles to expansive DLC collections, this tool handles every component with surgical accuracy, orchestrating a flawless install-to-run process without user intervention.*
+
+*Whether used for rapid deployment, testing, or personal convenience, BlackPoison Steam embodies the project’s ethos: speed, control, and mastery over the digital realm.*
 
 ### [🔐 BlackPoison ClipBoard](https://github.com/7-c/BlackPoison_ClipBoard)  
-**Zero-trust identity and access management solution** leveraging FIDO2/WebAuthn with cryptographic resilience.  
-*Technologies: .NET, WebAuthn, TPM Integration*
+**BlackPoison Clipboard Manager**
+**A Timeless Archive Within the BlackPoison Project**
+
+*The BlackPoison Clipboard Manager is a sleek, reliable utility forged under the BlackPoison Project, built to capture, store, and empower access to every clipboard action with unerring precision. Designed for practicality and endurance, it records all clipboard content—whether text, images, or other data types—and preserves them indefinitely, ensuring nothing is ever lost, forgotten, or overwritten.*
+
+*Equipped with a powerful search function, users can swiftly retrieve any previously copied item, regardless of how long ago it was stored. Its clean, focused interface offers efficiency without distraction, standing as a faithful guardian of digital fragments that would otherwise fade into oblivion.*
+
+*Uncomplicated, unyielding, and eternal—BlackPoison Clipboard Manager is the quiet force behind every command you copy.*
 
 ---
 
