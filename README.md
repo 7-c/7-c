@@ -1,117 +1,123 @@
-<!-- Professional Cybersecurity Portfolio Banner -->
-<h1 align="center">🛡️ Darious a.k.a. Warsing</h1>
-<h3 align="center"><i>Senior Full-Stack Engineer | Offensive Security Strategist | Reverse Engineering Specialist</i></h3>
+<!-- Professional Cybersecurity & Full-Stack Portfolio Banner -->
+<h1 align="center">🛡️ Warsing</h1>
+<h3 align="center"><i>Full-Stack Engineer | Cybersecurity Specialist | Offensive Security & Reverse Engineering</i></h3>
 
 <hr>
 
-## 🔎 Executive Summary
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7-c&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-**Strategic architect of secure digital systems. Relentless adversary in red team operations.**  
-With over a decade of experience at the intersection of software engineering and cybersecurity, I specialize in the full lifecycle of system design, threat emulation, and binary deconstruction. Holding industry-standard certifications (OSCP, CISSP, AWS Solutions Architect), I bring a unique blend of development rigor and adversarial insight—building resilient architectures while simultaneously stress-testing them under real-world offensive scenarios.
-
-My operational philosophy blends deep technical acumen with a security-first mindset, ensuring every system I touch is fortified against both common exploits and nation-state-grade threats.
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/7-c">
+    <img src="https://github-profile-trophy.vercel.app/?username=7-c&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-## 🧰 Core Competencies
+## 🔎 Executive Summary
 
-### 🖥️ Software Engineering Expertise
+**Strategic architect of secure systems. Adversary in red team operations.**  
+With a foundation in **Computer Science** (Islamic University graduate, Faculty of Science and Arts) and hands-on **cybersecurity, full-stack development, and networking** expertise from a JA Square internship, I bridge development and security with precision.  
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+My operational philosophy blends deep technical acumen with a security-first mindset, ensuring every system I touch is resilient, adaptive, and fortified against both everyday threats and sophisticated adversaries.
 
-**Backend & API Development:**  
+---
+
+## 🧰 Technical Arsenal
+
+### 🖥️ Software Engineering
+
+**Languages & Scripting:**  
+![C/C++](https://img.shields.io/badge/C%2B%2B/C-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
+![Batch](https://img.shields.io/badge/BAT-.bat-gray?style=flat)  
+![Shell / Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+![HTA](https://img.shields.io/badge/HTA-HTML%20App-lightgrey?style=flat)  
+![VBS](https://img.shields.io/badge/VBS-VBScript-lightgrey?style=flat)  
+![VBA](https://img.shields.io/badge/VBA-Macro-lightgrey?style=flat)  
+
+**Languages & Frameworks (web & backend):**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-**Databases & Data Handling:**  
+**Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
+
+**Environments & Tools:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
 
 ---
 
 ### 🛡️ Cybersecurity & Reverse Engineering
 
-**Offensive Security Expertise:**  
-- Full-spectrum red teaming & threat simulation  
-- Zero-day vulnerability discovery and exploit development  
-- Secure architecture auditing & cloud infrastructure penetration testing  
-
-**Reverse Engineering Proficiency:**  
-- Static and dynamic malware analysis (x86, x64, ARM)  
-- Runtime manipulation via Frida, IDA Pro, Ghidra, and Intel PIN  
-- Proprietary protocol decryption, obfuscation defeat, and behavioral tracing  
-
-**Certifications:**  
-- Offensive Security Certified Professional (OSCP)  
-- Certified Information Systems Security Professional (CISSP)  
-- AWS Certified Solutions Architect – Professional  
+- Red teaming & adversarial simulation  
+- Vulnerability research & exploit development  
+- Malware analysis: static/dynamic (x86/x64/ARM)  
+- Tools: IDA Pro, Ghidra, Frida, Intel PIN  
+- Network traffic manipulation & custom protocol reversing  
 
 ---
 
-## 🧠 Flagship Initiatives
+## 🧠 Flagship Projects
 
-### [🧬 BlackPoison ARAT](https://github.com/7-c/BlackPoison_ARAT) 
-
-**BlackPoison Advanced Rremote Adminstration Tool**
+### [🧬 BlackPoison ARAT](https://github.com/7-c/BlackPoison_ARAT)  
 **Silent Dominion. Absolute Control.**
 
-*BlackPoison ARAT is a stealthy, high-performance Advanced Remote Administration Tool (ARAT), forged for long-term system control and unparalleled operational flexibility. Designed to operate invisibly yet decisively, it empowers its wielder with total oversight across compromised systems.*
+*A high-performance Advanced Remote Administration Tool (ARAT), engineered for stealth, persistence, and modular dominance across systems.*
 
-Key features include:
+---
 
-**- Fully encrypted command-and-control communication for maximum stealth and security**
-
-**- Hidden code execution, allowing for seamless, invisible task deployment**
-
-**- Live remote monitoring through desktop and webcam streaming**
-
-**- Robust persistence mechanisms to ensure continuous access over time**
-
-**- A modular plugin system for customizable functionality and scalable capabilities**
-
-*Built for endurance, engineered for silence, and perfected for dominance—BlackPoison ARAT is not merely a tool; it is your silent blade in the shadows of the digital battlefield.*
-
-### [🕷️ BlackPoison Steam](https://github.com/7-c/BlackPoison_Steam)   
-
-**BlackPoison Steam**
+### [🕷️ BlackPoison Steam](https://github.com/7-c/BlackPoison_Steam)  
 **Total Deployment. Zero Interruption.**
 
-*BlackPoison Steam is a formidable tool within the BlackPoison arsenal, engineered to inject and deploy complete games—including all DLCs and full multiplayer functionality—directly onto a system with unmatched efficiency. It bypasses conventional installation procedures, eliminating delays, prompts, or dependency checks, delivering a ready-to-play experience in a single, seamless execution.*
+*Inject and deploy full games—including DLCs and multiplayer—without setup, dependencies, or delays.*
 
-*With a focus on automation, precision, and stealth, BlackPoison Steam ensures that every game is fully operational upon launch—no setup required. From sprawling AAA titles to expansive DLC collections, this tool handles every component with surgical accuracy, orchestrating a flawless install-to-run process without user intervention.*
-
-*Whether used for rapid deployment, testing, or personal convenience, BlackPoison Steam embodies the project’s ethos: speed, control, and mastery over the digital realm.*
+---
 
 ### [🔐 BlackPoison ClipBoard](https://github.com/7-c/BlackPoison_ClipBoard)  
-**BlackPoison Clipboard Manager**
-**A Timeless Archive Within the BlackPoison Project**
+**Timeless Archive.**
 
-*The BlackPoison Clipboard Manager is a sleek, reliable utility forged under the BlackPoison Project, built to capture, store, and empower access to every clipboard action with unerring precision. Designed for practicality and endurance, it records all clipboard content—whether text, images, or other data types—and preserves them indefinitely, ensuring nothing is ever lost, forgotten, or overwritten.*
-
-*Equipped with a powerful search function, users can swiftly retrieve any previously copied item, regardless of how long ago it was stored. Its clean, focused interface offers efficiency without distraction, standing as a faithful guardian of digital fragments that would otherwise fade into oblivion.*
-
-*Uncomplicated, unyielding, and eternal—BlackPoison Clipboard Manager is the quiet force behind every command you copy.*
+*A clipboard manager built for endurance—capturing, storing, and archiving every copied fragment for eternal recall.*
 
 ---
 
-## 💡 Strategic Vision
+## 📊 GitHub Stats
 
-> "Security is not a product—it is a philosophy forged in discipline and tempered by confrontation.  
-> I do not simply build to defend; I build to endure, to adapt, and to overcome."
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=7-c&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7-c&langs_count=8&layout=compact&theme=radical&cache_seconds=60" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg" width="1000" alt="snake gif" />
+</p>
 
 ---
 
-## 📫 Contact & Collaboration Channels
+## 📫 Contact & Collaboration
 
-For strategic partnerships, vulnerability disclosures, or elite research collaboration:
-
-- **Secure Email:** `d2-r@protonmail.com`  
-- **Incident Reporting:** `security@blackpoison.net`  
-- **Digital Portfolio:** [https://blackpoison.net](https://blackpoison.net)  
+- **Secure Email:** ``  
+- **Incident Reporting:** ``  
+- **Portfolio:** [)  
 
 ---
 
