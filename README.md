@@ -17,12 +17,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7-c/your-repo/main/assets/hack.gif" width="500" alt="Custom gif" />
-</p>
-
-
----
 
 ## 🔎 Executive Summary
 
