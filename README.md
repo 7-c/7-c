@@ -64,12 +64,6 @@ I combine full-stack engineering discipline with offensive research and reverse 
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SvckSyQ1Jj1Xo/giphy.gif" width="500" alt="Hacking gif" />
-</p>
-
----
-
 ## 🛡️ Cybersecurity & Reverse Engineering
 
 - Red teaming & adversarial simulation  
