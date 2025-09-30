@@ -113,7 +113,7 @@ A clipboard manager for persistent archival and retrieval.
 ## 📫 Contact & Collaboration
 
 - **GitHub:** [7-c](https://github.com/7-c)  
-- **Email (professional):** `yourname@domain.tld`  
+- **Email (professional):** ``  
 - **Open to:** collaborative research, red-team engagements, security labs, responsible disclosure  
 
 ---
