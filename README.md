@@ -18,8 +18,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Cybersecurity gif" />
+  <img src="https://raw.githubusercontent.com/7-c/your-repo/main/assets/hack.gif" width="500" alt="Custom gif" />
 </p>
+
 
 ---
 
